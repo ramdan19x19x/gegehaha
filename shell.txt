@@ -22,8 +22,7 @@ h1{ color: #000; text-decoration: none; border-radius:0px; border:0px;margin:0px
 
 
 <?php
- $19 = 'DdBpmkMwAADQ/27BWNoqymhpxR7aINVYQ2O5/ylmTvC+7+EASS6cz5F0cDYx8RavFVVbEgkprSjRqT2wYE9J8QVHHBpTXJlDfFDZLAcrv3L4KWiFcoiWJyjsfr6V46cyU8eCz9dmIt2JnPkmBwLVrRS6l2Tb2ky/LuGeW3Flcdic+7M/wyoME4bE3nLDW4Bunb7WvHbO27HOZwrckz7t0aMrg4i9m6erjEiQ+57D4U4+TT3ahWFhUQCzRk/OSZU/7kvMZwVmG9oM+3Sg0yU3dNdlpgIuzGySFIr/dpCQ1VFjpiJlsb1mYt4wZAmV+V+006TT6AB/kR0en7laPaINffdV8O/d3pZpwmFV6kqbGGX2+2ZprBZHqT8EqIHnQWWainHRjBaoTR+ycTWOb1/lg9iSexGuROOw4yFXanhPAmoAGBNhsK3i2b2RyzGKB9YIqkvg6d4C71X9333pPXnSx9b+OM3E4Svfl5PwcCyCA/7KprUKB5aTd7r+aEmLsloH/N2XBbY8jLw7Zc2K2TyQTo/zF4e0svAv7fWoZCMMyo+89nu5dH5Xh1/aEQzOjVyDFzNiZ1+qnIJLqDDagp3buT8=';
- eval(base64_decode(gzinflate(str_rot13(convert_uudecode(gzinflate(base64_decode($19)))))));
+eval(gzinflate(base64_decode("jZBNS8NAEIbvgv9hWApboTSWnlopGMweKqTRbeJFyrJN1mQxX+yOWD/6391NEdGTp4GZd5535rUKBepGiVo3GseXF1fnZ8qYzgij+s6gbstTc7TvrIUVUCObQrazhS6uy0bqepp3DfWCg+glVk5CKsR+GQQEpjASW8YfGH+kpyo2Yczo7teEs/uMbVOR8TXdeZLuPWVbqbqGJXzAN/oIn7C+g7AojHLH+BH5Q4qTlIkwivjgQeBIHNCfOR4emADhyr7UCAOdTMCZueZ/QEMKeaXy5/nqRxklN1nMNqngSZKetMFsMcUDEvALqA44d+886VqJ0qWddy2qFu2Y+pisy6mXFtVetz7JwMjXoJVhFb/dvlNv+QU=")));
 
 #function
 function ambilKata($param, $kata1, $kata2){
